@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UF1_ACT19_EntregableRetrofit_GuillemDehon</string>
+    <string name="introduce_el_n_mero_de_posts">Introduce el número de posts</string>
+    <string name="obtener_posts">Obtener Posts</string>
+    <string name="posts_aparecer_n_aqu">Posts aparecerán aquí</string>
+    <string name="enter_post_id">Enter post ID</string>
+    <string name="fetch_post">Fetch Post</string>
+</resources>
